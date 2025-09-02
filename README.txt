@@ -1,6 +1,4 @@
 Stephan Bilyk
-XR Trading 
-Technical Operations Analyst
 Python Development Challenge - SE
 
 Create a Python application that will read from 3 input files and use the data within to produce 2 output 

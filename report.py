@@ -1,3 +1,4 @@
+#Generate reports from team, product, and sales data
 
 import csv
 import argparse
